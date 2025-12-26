@@ -42,13 +42,28 @@ Developed by **Group 63** as part of **PUSL2021 – Computing Group Project** us
 
 ## 📸 Screenshots
 
-![Splash Screen](assets/splash-screen.png)  
-![Home Page](assets/home-page.png)  
-![Child Dashboard](assets/child-dashboard.png)  
-![Caregiver Dashboard](assets/caregiver-dashboard.png)  
-![Profile Creation](assets/profile-creation.png)
+![Screenshot 1](assets/Screenshot%202025-04-28%20234809.png)
+![Screenshot 2](assets/Screenshot%202025-05-05%20140405.png)
+![Screenshot 3](assets/Screenshot%202025-05-05%20140433.png)
+![Screenshot 4](assets/Screenshot%202025-05-05%20140446.png)
+![Screenshot 5](assets/Screenshot%202025-05-05%20140714.png)
+![Screenshot 6](assets/Screenshot%202025-05-05%20140737.png)
+![Screenshot 7](assets/Screenshot%202025-05-05%20140745.png)
+![Screenshot 8](assets/Screenshot%202025-05-05%20140813.png)
+![Screenshot 9](assets/Screenshot%202025-05-05%20140855.png)
+![Screenshot 10](assets/Screenshot%202025-05-05%20140912.png)
+![Screenshot 11](assets/Screenshot%202025-05-05%20140928.png)
+![Screenshot 12](assets/Screenshot%202025-05-05%20140940.png)
+![Screenshot 13](assets/Screenshot%202025-05-05%20141003.png)
+![Screenshot 14](assets/Screenshot%202025-05-05%20141014.png)
+![Screenshot 15](assets/Screenshot%202025-05-05%20141026.png)
+![Screenshot 16](assets/Screenshot%202025-05-05%20141033.png)
+![Screenshot 17](assets/Screenshot%202025-05-05%20141042.png)
+![Screenshot 18](assets/Screenshot%202025-05-05%20141211.png)
+![Screenshot 19](assets/Screenshot%202025-05-05%20141226.png)
+![Screenshot 20](assets/Screenshot%202025-05-05%20141236.png)
+![Screenshot 21](assets/Screenshot%202025-05-05%20141258.png)
 
-*(Rename images in the `assets` folder to simple names without spaces for better readability)*
 
 ---
 
